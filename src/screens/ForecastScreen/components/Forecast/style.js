@@ -2,9 +2,10 @@ import { StyleSheet } from "react-native";
 
 const style = StyleSheet.create({
   container: {
-    position: "absolute",
-    top: "12%",
-    width: "100%",
+    height: "25%",
+    width: "80%",
+    backgroundColor: "#ffb703",
+    padding: 10,
   },
 });
 
